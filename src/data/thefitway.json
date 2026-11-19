@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "thefitway.io",
+    "instagram": "https://www.instagram.com/reel/DfZvCWiM_X2/",
+    "thumbnail": "/thumbnails/DfZvCWiM_X2.jpg",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "title": "thefitway.io",
+    "instagram": "https://www.instagram.com/reel/De1gx9tMa8j/",
+    "thumbnail": "/thumbnails/De1gx9tMa8j.jpg",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "title": "thefitway.io",
+    "instagram": "https://www.instagram.com/reel/DfRgHXcM0fT/",
+    "thumbnail": "/thumbnails/DfRgHXcM0fT.jpg",
+    "order": 3
+  },
+  {
+    "id": 4,
+    "title": "thefitway.io",
+    "instagram": "https://www.instagram.com/reel/De8Y2WfsQV4/",
+    "thumbnail": "/thumbnails/De8Y2WfsQV4.jpg",
+    "order": 4
+  }
+]

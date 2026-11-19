@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omkarvisuals.example.com/sitemap.xml

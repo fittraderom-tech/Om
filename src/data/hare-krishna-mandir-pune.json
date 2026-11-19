@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "title": "Sri Ram Jayam– Experience the Epic Ramayan | Devotional Drama | Dussehra Special | HKM Pune",
+    "subtitle": "Hare Krishna Mandir Pune",
+    "youtube": "https://www.youtube.com/watch?v=vOOg555aJT0",
+    "orientation": "landscape",
+    "description": "Sound design, track design, drama video editing",
+    "order": 1,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "On a Brick for Bhakti | Ashadhi Ekadashi Special Drama | Hare Krishna Mandir | Panduranga Vitthal",
+    "subtitle": "Hare Krishna Mandir Pune",
+    "youtube": "https://www.youtube.com/watch?v=VYDxUmstyd8",
+    "orientation": "landscape",
+    "description": "Sound design, track design, drama video editing",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "title": "न मे भक्तः प्रणश्यति – He protects, always! Narsimha Jayanti Special Drama | Hare Krishna Valley",
+    "subtitle": "Hare Krishna Mandir Pune",
+    "youtube": "https://www.youtube.com/watch?v=iWtiwa5at8E",
+    "orientation": "landscape",
+    "description": "Sound design, track design, drama video editing",
+    "order": 3,
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Live from Ahobilam | Drama by FOLK Pune | Narsimha Jayanti Special",
+    "subtitle": "Hare Krishna Mandir Pune",
+    "youtube": "https://www.youtube.com/watch?v=tJcl21YeI2w",
+    "orientation": "landscape",
+    "description": "Sound design, track design, drama video editing",
+    "order": 4
+  },
+  {
+    "id": 5,
+    "title": "Shabari’s Deliverance – A Divine Encounter | HKM Pune Theatrix | Ram Navami Special",
+    "subtitle": "Hare Krishna Mandir Pune",
+    "youtube": "https://www.youtube.com/watch?v=ksNFzcNGs_Y",
+    "orientation": "landscape",
+    "description": "Sound design, track design, drama video editing",
+    "order": 5
+  }
+]

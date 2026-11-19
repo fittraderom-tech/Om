@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Amazon miniTV",
+    "subtitle": "19.7M views",
+    "instagram": "https://www.instagram.com/reel/C7mAqKvt1AI/",
+    "thumbnail": "/thumbnails/C7mAqKvt1AI.jpg",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "title": "Amazon miniTV",
+    "subtitle": "15M views",
+    "instagram": "https://www.instagram.com/reel/CqzpDIbA_Mw/",
+    "thumbnail": "/thumbnails/CqzpDIbA_Mw.jpg",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "title": "Netflix",
+    "subtitle": "8.8M views",
+    "instagram": "https://www.instagram.com/reel/DQbtYhFk2DU/",
+    "thumbnail": "/thumbnails/DQbtYhFk2DU.jpg",
+    "order": 3
+  },
+  {
+    "id": 4,
+    "title": "Netflix",
+    "subtitle": "4.4M views",
+    "instagram": "https://www.instagram.com/reel/DPytOwiEznI/",
+    "thumbnail": "/thumbnails/DPytOwiEznI.jpg",
+    "order": 4
+  },
+  {
+    "id": 5,
+    "title": "MX Player",
+    "subtitle": "1.5M views",
+    "instagram": "https://www.instagram.com/reel/CYgpl0PpFTl/",
+    "thumbnail": "/thumbnails/CYgpl0PpFTl.jpg",
+    "order": 5
+  },
+  {
+    "id": 6,
+    "title": "MX Player",
+    "subtitle": "88K views",
+    "instagram": "https://www.instagram.com/reel/CZR5OL6pl4D/",
+    "thumbnail": "/thumbnails/CZR5OL6pl4D.jpg",
+    "order": 6
+  }
+]
